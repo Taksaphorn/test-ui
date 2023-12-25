@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PEA-การไฟฟ้าส่วนภูมิภาค</title>
+    <link rel="icon" type="image/png" href="https://dynamicwork.net/wp/wp-content/uploads/2014/01/logo-PEA.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="vr">
+    <div class="container">
+        <div class="con">
+            <div class="con-info">
+                <h1>PEA no : 54-120002 <br />
+                    วัน/เวลา : xx/xx/xxx . xx:xx:xx น.<br />
+                    สถานที่ : xxxxxxxxxx<br />
+                </h1>
+            </div>
+        </div>
+
+        <div class="console">
+            <div class="blog-button">
+                <div class="button-item1">
+                    <a href="" class="btn">ดูค่าหม้อแปลง</a>
+                </div><br/>
+                <div class="button-item2">
+                    <a href="" class="btn">เช็คสถานะ</a>
+                </div><br/>
+                <div class="button-item3">
+                    <a href="" class="btn">รายงานผล</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
