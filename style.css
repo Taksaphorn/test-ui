@@ -1,0 +1,75 @@
+.container {
+    width: 50%;
+    height: 339px;
+    border-radius: 20px;
+    border: 2px solid #38B5A6;
+    background: #3FC5B5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    margin: auto;
+}
+
+.con {
+    flex: 1; /* Take up remaining space */
+    max-width: 70%;
+    margin: top;
+    margin-left: 20px;
+   
+}
+
+.con-info {
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 50;
+    line-height: normal;   
+}
+
+.console {
+    flex: 0 0 30%; /* Fixed size of 30% */
+    max-width: 30%;
+    margin: auto;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.blog-button {
+    margin-left: 10px; /*for make the space 10 from left side*/
+}
+
+.button-item1,
+.button-item2,
+.button-item3 {
+    display: flex;
+    justify-content: center; /* Center text horizontally */
+    align-items: center; /* Center text vertically */
+    width: 174px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    
+}
+
+.button-item3 {
+    background: #F6ACE6;
+}
+
+.btn {
+    color: #FFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
